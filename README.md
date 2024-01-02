@@ -1,2 +1,1 @@
-# powerbi
-PowerBI Data Visualization Practice
+1. HR Analytics Dashboard 
